@@ -63,7 +63,8 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:background="#e9dbdb"
-            android:orientation="horizontal"/>
+            android:orientation="horizontal"
+            android:layout_marginRight="6dp"/>
 
         <Button
             android:id="@+id/btnBut2"
