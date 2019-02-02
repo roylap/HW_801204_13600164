@@ -42,7 +42,7 @@
                 android:layout_height="wrap_content"
                 android:text="//RGB"
                 android:layout_below="@+id/tvoutput1"
-                android:layout_alignRight="@+id/tvoutput1"/>
+                android:layout_alignLeft="@+id/tvoutput1"/>
 
         </RelativeLayout>
 
